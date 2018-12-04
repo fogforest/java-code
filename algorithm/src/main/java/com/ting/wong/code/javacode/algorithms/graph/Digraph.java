@@ -1,6 +1,6 @@
-package com.ting.wong.javacode.algorithms.graph;
+package com.ting.wong.code.javacode.algorithms.graph;
 
-import com.ting.wong.javacode.algorithms.bag.Bag;
+import com.ting.wong.code.javacode.algorithms.bag.Bag;
 
 /**
  * @author Ting Wong

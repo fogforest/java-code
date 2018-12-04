@@ -1,4 +1,4 @@
-package com.ting.wong.javacode.algorithms.bag;
+package com.ting.wong.code.javacode.algorithms.bag;
 
 import java.util.Iterator;
 

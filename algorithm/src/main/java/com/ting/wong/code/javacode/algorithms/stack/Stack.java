@@ -1,4 +1,4 @@
-package com.ting.wong.javacode.algorithms.stack;
+package com.ting.wong.code.javacode.algorithms.stack;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;

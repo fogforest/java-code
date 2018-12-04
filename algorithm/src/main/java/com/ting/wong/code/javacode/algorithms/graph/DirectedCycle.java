@@ -1,4 +1,4 @@
-package com.ting.wong.javacode.algorithms.graph;
+package com.ting.wong.code.javacode.algorithms.graph;
 
 import java.util.Stack;
 
