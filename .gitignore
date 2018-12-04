@@ -5,7 +5,7 @@
 .classpath
 .settings/
 .project
-.idea/
+.idea/*
 .loadpath
 *.iml
 *.ipr
